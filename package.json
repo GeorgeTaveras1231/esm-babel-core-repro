@@ -1,0 +1,16 @@
+{
+  "name": "esm-babel-core-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./main.js"
+  },
+  "engines": {
+    "node": "^10"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "esm": "^3.2.22"
+  }
+}
